@@ -1,4 +1,4 @@
-Country	State	date	name	type	CountryCode	StateCode
+Country	State	date	name	type	CountryCode	StateCode 
 Andorra	Andorra la Vella	2025-01-01	Any nou	public	AD	07
 Andorra	Andorra la Vella	2025-01-06	Día de los Reyes Magos	public	AD	07
 Andorra	Andorra la Vella	2025-03-04	Carnaval	public	AD	07
